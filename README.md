@@ -1,7 +1,5 @@
 # python-selenium-qubika
 
-Por supuesto, aquí tienes un ejemplo de archivo `README.md` en formato Markdown que puedes utilizar para documentar tu proyecto:
-
 ---
 
 # Python Selenium Behave Automation Framework
